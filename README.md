@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+VViewTool::Renderer.copyright "Vaiva", "All rights reserved"
+```
 
 ## Development
 
